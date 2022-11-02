@@ -3,6 +3,8 @@
 - 📫 歡迎透過 e-mail 與我聯繫，也可以在社群網站找到我。
   - chiayinin@gmail.com
   - [FaceBook](https://www.facebook.com/)
+  - [個人履歷](https://www.cakeresume.com/flax_gorge)
+  
 - 🌱 作品集:
   -  [Chiayin's blog](https://chiayinin.com/): 前端技術筆記，真正地從入門到理解前端技術。使用 Hexo / Github 部署，透過 GoDaddy 取得專屬網域名稱。
   -  [TimeWillTell-時間管理工具](https://chiayinin.com/timeWillTell-layout/index.html): 個人發想前端切版專案。記錄使用者在每個任務上所花費的時間和任務追蹤。
